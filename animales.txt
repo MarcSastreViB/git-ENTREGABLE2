@@ -1,4 +1,4 @@
-Pulpo
-Tiburon
-Tigre
-Perro
+Pulpo Rojo
+Tiburon Azul
+Tigre Marron
+Perro Carmesí
