@@ -1,4 +1,4 @@
-Pulpo
-Tiburon
-Tigre
-Perro
+Pulpo verde
+Tiburon morado
+Tigre blanco
+Perro negro
